@@ -34,7 +34,7 @@ pyperclip
 PyRect
 pyscreenshot
 PyScreeze
-python-3.9
+python_version == 3.9.*
 python-dateutil
 pythonnet
 pytweening
