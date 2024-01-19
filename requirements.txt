@@ -28,13 +28,14 @@ pycparser
 PyGetWindow
 PyMsgBox
 pyobjc-core
+pyobjc==7.1
 pyobjc-framework-Cocoa
 pyobjc-framework-Quartz
 pyperclip
 PyRect
 pyscreenshot
 PyScreeze
-python_version == 3.9.*
+python_version == 3.9.1
 python-dateutil
 pythonnet
 pytweening
