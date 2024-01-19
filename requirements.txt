@@ -27,7 +27,6 @@ PyAutoGUI
 pycparser
 PyGetWindow
 PyMsgBox
-pyobjc-core
 pyobjc==7.1
 pyobjc-framework-Cocoa
 pyobjc-framework-Quartz
